@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=200&duration=2500&pause=1000&color=E61DF7&center=true&vCenter=true&width=500&height=71&lines=Yoo+WhatsUp+Shawty" alt="Typing SVG" /></a>
 
-<!--
-**GabzyP/GabzyP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Halo, Namaku GLENN PETER.</b>
+  </p>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img alt="Client" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Client&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=11&line1=react,react,61DAFB;tailwindcss,tailwind,06B6D4;next.js,next.js,ffffff;swift,swift,F05138;&line2=css3,css,1572B6;jquery,jquery,0769AD;redux,redux,764ABC;figma,figma,3A76F0;"/>
+  <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Storage&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=PostgreSQL,PostgreSQL,4169E1;mongodb,MongoDB,47A248;mariadb,mariadb,ffffff;mysql,mysql,eba000;&line2=Supabase,supabase,3ECF8E;redis,redis,DC382D;amazondynamodb,dynamodb,4053D6;SQLite,SQLite,ffffff;"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+ <p align="center">
+   <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
+</p>
+<br>
+
+<h2 align="center"><b>&nbsp;Jumlah Pengunjung&nbsp;</b>
+</h2>
+<br>
+
+<p align="center">
+<img src="https://count.getloli.com/get/@NGabzyP-github-readme?theme=rule34" alt="Visitors">
+</p>
