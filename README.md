@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
 
 <p align="center">
-  <b>Halo, Namaku GLENN PETER.</b>
+  <b>Halo, Namaku Gabriel.</b>
   </p>
 <br>
 
